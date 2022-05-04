@@ -1,0 +1,34 @@
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\bin\Debug\net5.0\appsettings.json
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\bin\Debug\net5.0\Amazontablewebapi.exe
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\bin\Debug\net5.0\Amazontablewebapi.deps.json
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\bin\Debug\net5.0\Amazontablewebapi.runtimeconfig.json
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\bin\Debug\net5.0\Amazontablewebapi.runtimeconfig.dev.json
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\bin\Debug\net5.0\Amazontablewebapi.dll
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\bin\Debug\net5.0\Amazontablewebapi.pdb
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\bin\Debug\net5.0\Business Layer.dll
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\bin\Debug\net5.0\Data Access Layer.dll
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\bin\Debug\net5.0\Domain Layer.dll
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\bin\Debug\net5.0\Business Layer.pdb
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\bin\Debug\net5.0\Data Access Layer.pdb
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\bin\Debug\net5.0\Domain Layer.pdb
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\obj\Debug\net5.0\Amazontablewebapi.csproj.AssemblyReference.cache
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\obj\Debug\net5.0\Amazontablewebapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\obj\Debug\net5.0\Amazontablewebapi.AssemblyInfoInputs.cache
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\obj\Debug\net5.0\Amazontablewebapi.AssemblyInfo.cs
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\obj\Debug\net5.0\Amazontablewebapi.csproj.CoreCompileInputs.cache
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\obj\Debug\net5.0\Amazontablewebapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\obj\Debug\net5.0\Amazontablewebapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\obj\Debug\net5.0\scopedcss\bundle\Amazontablewebapi.styles.css
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\obj\Debug\net5.0\staticwebassets\Amazontablewebapi.StaticWebAssets.Manifest.cache
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\obj\Debug\net5.0\Amazontablewebapi.RazorTargetAssemblyInfo.cache
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\obj\Debug\net5.0\Amazontablewebapi.csproj.CopyComplete
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\obj\Debug\net5.0\Amazontablewebapi.dll
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\obj\Debug\net5.0\refint\Amazontablewebapi.dll
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\obj\Debug\net5.0\Amazontablewebapi.pdb
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\obj\Debug\net5.0\Amazontablewebapi.genruntimeconfig.cache
+C:\Users\Madhunika Lagishetty\source\repos\Amazontablewebapi\Amazontablewebapi\obj\Debug\net5.0\ref\Amazontablewebapi.dll

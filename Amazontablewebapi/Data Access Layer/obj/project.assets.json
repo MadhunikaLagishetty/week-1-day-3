@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Domain Layer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Domain Layer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain Layer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Domain Layer/1.0.0": {
+      "type": "project",
+      "path": "../Domain Layer/Domain Layer.csproj",
+      "msbuildProject": "../Domain Layer/Domain Layer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Domain Layer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Madhunika Lagishetty\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Madhunika Lagishetty\\source\\repos\\Amazontablewebapi\\Data Access Layer\\Data Access Layer.csproj",
+      "projectName": "Data Access Layer",
+      "projectPath": "C:\\Users\\Madhunika Lagishetty\\source\\repos\\Amazontablewebapi\\Data Access Layer\\Data Access Layer.csproj",
+      "packagesPath": "C:\\Users\\Madhunika Lagishetty\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Madhunika Lagishetty\\source\\repos\\Amazontablewebapi\\Data Access Layer\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Madhunika Lagishetty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Madhunika Lagishetty\\source\\repos\\Amazontablewebapi\\Domain Layer\\Domain Layer.csproj": {
+              "projectPath": "C:\\Users\\Madhunika Lagishetty\\source\\repos\\Amazontablewebapi\\Domain Layer\\Domain Layer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

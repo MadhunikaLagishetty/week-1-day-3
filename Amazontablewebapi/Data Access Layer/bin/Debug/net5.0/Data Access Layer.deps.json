@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Data Access Layer/1.0.0": {
+        "runtime": {
+          "Data Access Layer.dll": {}
+        }
+      },
+      "Domain Layer/1.0.0": {
+        "runtime": {
+          "Domain Layer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Data Access Layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain Layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
